@@ -1,7 +1,7 @@
 {
   "name": "vue-count-to-zjh",
   "description": "It's a vue component that will count to a target number at a specified duration",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Steve Zhang <871506263@qq.com>",
   "main": "dist/vue-count-to.min.js",
   "scripts": {
